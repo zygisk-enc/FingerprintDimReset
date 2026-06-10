@@ -1,0 +1,4 @@
+- Initial Release.
+- Fingerprint-based dimming reset logic.
+- Support for AOSP power management hooks.
+- Xposed/LSPosed compatibility.

@@ -1,0 +1,1 @@
+Xposed module to reset screen dimming via fingerprint.
