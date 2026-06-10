@@ -6,11 +6,6 @@ AuthorEmail: chinmai.enc@gmail.com
 SourceCode: https://github.com/zygisk-enc/FingerprintDimReset
 IssueTracker: https://github.com/zygisk-enc/FingerprintDimReset/issues
 
-Summary: Xposed module to reset screen dimming via fingerprint
-Description: |-
-  Xposed module that resets screen dimming when a fingerprint is detected.
-  Useful for keeping the screen active while using biometric authentication.
-
 RepoType: git
 Repo: https://github.com/zygisk-enc/FingerprintDimReset.git
 
@@ -21,7 +16,7 @@ Builds:
     gradle:
       - yes
 
-AutoUpdateMode: Version v%v
+AutoUpdateMode: Version
 UpdateCheckMode: Tags
 CurrentVersion: '1.0'
 CurrentVersionCode: 1
